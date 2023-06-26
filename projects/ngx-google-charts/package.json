@@ -1,0 +1,13 @@
+{
+  "name": "@athletic/ngx-google-charts",
+  "version": "16.0.0",
+  "peerDependencies": {
+    "@angular/common": ">=6.0.0 <=20.x.x",
+    "@angular/core": ">=6.0.0 <=20.x.x"
+  },
+  "dependencies": {
+    "@types/google.visualization": "0.0.69",
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
